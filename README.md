@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm vshivam05</h1>
 <h3 align="center"> I'm a passionate Full Stack Developer from India, specializing in building and designing web applications. With a deep interest in web technologies, I'm always eager to learn, tackle new challenges, and contribute to impactful projects. I’m committed to continuous growth and bringing my expertise to innovative solutions in the tech world.
-
+</h3>
 <h2>Tech Stack Expertise</h2>
+<h3>
 I am proficient in C/C++, JavaScript, Python, HTML, CSS, with a focus on modern web development using React.js, Node.js, Express, and databases such as MySQL, Firestore, and MongoDB (MERN Stack). I also possess a solid understanding of Data Structures & Algorithms (DSA), ensuring optimized and efficient solutions across various projects.
 </h3>
 
