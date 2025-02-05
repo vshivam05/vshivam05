@@ -3,7 +3,7 @@
 </h3>
 <h2>Tech Stack Expertise</h2>
 <h4>
-I am proficient in C/C++, JavaScript, Python, HTML, CSS, with a focus on modern web development using React.js, Node.js, Express, and databases such as MySQL, Firestore, and MongoDB (MERN Stack). I also possess a solid understanding of Data Structures & Algorithms (DSA), ensuring optimized and efficient solutions across various projects.
+I am proficient in C/C++, JavaScript, Typescript, Python, HTML, CSS, with a focus on modern web development using React.js, Redux, Redux-Toolkit, Node.js, Express, and databases such as MySQL, Firestore, and MongoDB (MERN Stack). I also possess a solid understanding of Data Structures & Algorithms (DSA), ensuring optimized and efficient solutions across various projects.
 </h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vshivam05&label=Profile%20views&color=0e75b6&style=flat" alt="vshivam05" /> </p>
