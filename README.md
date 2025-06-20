@@ -1,63 +1,53 @@
-<h1 align="center">👋 Hey, I'm Shivam Verma</h1>
-<h3 align="center">A Passionate Full Stack Developer from India 🚀</h3>
+<h1 align="center">👋 Hi, I'm Shivam Verma</h1>
+<h3 align="center">A Passionate Full Stack Developer from India</h3>
 
 <p align="center">
-  I specialize in building high-performance, scalable, and responsive web applications. With hands-on experience in both frontend and backend technologies, I enjoy solving real-world problems with clean, maintainable code.
+  I'm a Full Stack Developer specializing in building and designing high-performance web applications. I’m driven by curiosity, continuous learning, and a passion for creating scalable and impactful digital experiences.
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 🚀 Tech Stack Expertise
 
-- 🎯 I’m currently focused on full-stack development projects using **MERN stack** and exploring **cloud-based deployments**.
-- 📚 I constantly improve my problem-solving skills through **competitive programming** and **Data Structures & Algorithms**.
-- 🌐 I’ve built and deployed several real-world projects, which you can explore in my pinned repositories.
-- 🛠️ I enjoy contributing to open source and learning about system design, dev tools, and performance optimization.
+I’m proficient in:
 
----
-
-## 🚀 Tech Stack & Expertise
-
-### 🖥️ Languages
-`C/C++` • `JavaScript` • `TypeScript` • `Python` • `HTML5` • `CSS3`
-
-### 💻 Frontend
-`React.js` • `Redux` • `Redux Toolkit` • `Tailwind CSS` • `Bootstrap`
-
-### 🔧 Backend
-`Node.js` • `Express.js` • `REST APIs`
-
-### 🛢️ Databases
-`MongoDB` • `MySQL` • `Firestore`
-
-### 🔨 Tools & Platforms
-`Git` • `Postman` • `Firebase` • `Google Cloud Platform` • `Linux` • `VS Code`
+- **Languages:** C/C++, JavaScript, TypeScript, Python, HTML, CSS
+- **Frontend:** React.js, Redux, Redux-Toolkit, Bootstrap, Tailwind CSS
+- **Backend:** Node.js, Express.js
+- **Databases:** MongoDB, MySQL, Firestore
+- **Tools & Others:** Git, Postman, Firebase, GCP, Linux, Bash, DSA (Data Structures & Algorithms)
 
 ---
 
-## 📈 GitHub Stats & Activity
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vshivam05&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=vshivam05&label=Profile%20views&color=0e75b6&style=flat" alt="vshivam05" />
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vshivam05&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vshivam05&theme=react&hide_border=true" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vshivam05&show_icons=true&locale=en&theme=react&hide_border=true" alt="vshivam05" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vshivam05&theme=react&hide_border=true" alt="vshivam05" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vshivam05&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
-## 🔥 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vshivam05&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
 ---
 
-## 🌍 Connect with Me
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vshivam05&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+## 🔗 Connect with Me
 
 <p align="left">
   <a href="https://linkedin.com/in/shivam032" target="_blank">
@@ -87,8 +77,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
@@ -107,10 +97,6 @@
 
 ---
 
-## ✨ Quote to Live By
+> ⚡ *“Striving to write clean, scalable, and efficient code while learning something new every day.”*
 
-> _“Striving to write clean, scalable, and efficient code while learning something new every day.”_
 
----
-
-⭐ **If you like what I do, feel free to follow me and check out my projects!**  
